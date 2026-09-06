@@ -55,6 +55,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anurag-rawat-hub/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/anurag-rawat-hub/DSA/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/anurag-rawat-hub/DSA/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/anurag-rawat-hub/DSA/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -79,6 +80,7 @@ I will upload my DSA lab programs and other additional DSA programs here.
 | [0058-length-of-last-word](https://github.com/anurag-rawat-hub/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/anurag-rawat-hub/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anurag-rawat-hub/DSA/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/anurag-rawat-hub/DSA/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/anurag-rawat-hub/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
